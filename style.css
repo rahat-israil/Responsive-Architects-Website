@@ -53,6 +53,9 @@ main > section{
   justify-content: space-between;
   padding: 40px 125px;
 }
+.nav-title {
+  color: #12115A;
+}
 .list-item{
   margin-right: 36px;
   padding-top: 10px;
