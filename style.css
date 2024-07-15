@@ -296,10 +296,10 @@ footer{
       flex-direction: column;
     }
     .feature-image img {
-      width: 325px;
+      width: 270px;
     }
     .feature-box{
-      width: 400px;
+      width: 350px;
       margin: 0px auto;
       padding: 10px;
     }
